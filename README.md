@@ -38,14 +38,9 @@
 
 <h3>Paginas da wiki:</h3>
 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki">Finalidade e funcionalidades<a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo#tela-de-abertura">Tela de abertura</a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo#tela-inicial-home">Tela inicial - Home</a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo#tela-introdu%C3%A7%C3%A3o-ao-sistema">Tela de inttrodução ao sistema</a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo#tela-tutorial-de-cria%C3%A7%C3%A3o-manual">Tela de tutorial de criação de ficha - Manual</a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo#tela-de-cria%C3%A7%C3%A3o-automatica">Tela de criação de ficha - Automática</a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo#tela-ficha">Ficha de personagem</a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo#diagrama-de-classes">Diagrama de classes</a></p>
+<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/home">Home<a></p> 
+<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo">Protótipo de alto nível</a></p> 
+<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Diagrama-de-classes">Diagrama de classes</a></p>
 <br>
 <br>
 <br>
