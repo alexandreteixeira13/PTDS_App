@@ -39,8 +39,10 @@
 <h3>Paginas da wiki:</h3>
 
 <p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/home">Home<a></p> 
-<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo">Protótipo de alto nível</a></p> 
 <p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Diagrama-de-classes">Diagrama de classes</a></p>
+<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Prot%C3%B3tipo-do-aplicativo">Protótipo de alto nível</a></p> 
+<p><a href = "https://github.com/alexandreteixeira13/PTDS_App/wiki/Widgets-utilizados">Widgets utilizados</a></p>
+
 <br>
 <br>
 <br>
